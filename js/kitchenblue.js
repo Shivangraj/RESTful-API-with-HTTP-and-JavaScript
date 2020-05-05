@@ -1,10 +1,3 @@
-// jshint esversion:6
-
-// JavaScript file for the web page "Kitchen Blue"
-// Created by Harrison Kong
-// Copyright (C) Coursera 2020
-
-// This function is called automatically after the web page is done loading
 
 $(document).ready(function() {
   // add an event listener (performSearch) to the form
